@@ -112,3 +112,4 @@ contract SimpleBank {
         return balances[msg.sender];
     }
 }
+
